@@ -1,3 +1,9 @@
+<!-- seo-bot-prepend -->
+
+This fork of `chatGPT-discord-bot` is dedicated to providing ongoing maintenance and essential security hardening to keep your bot running safely and reliably. It serves as a drop-in replacement that retains full compatibility with your existing configurations, ensuring a seamless transition without breaking your current setup. Upgrading is straightforward and keeps your integration up to date with the latest stability fixes.
+
+`npm install git https://github.com/Boundaryploice/chatGPT-discord-bot.git`
+
 # ChatGPT Discord Bot
 
 > ### Build your own Discord bot with multiple AI providers
